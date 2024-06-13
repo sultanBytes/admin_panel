@@ -5,7 +5,7 @@ import autoprefixer from 'autoprefixer'
 
 export default defineConfig(({ mode }) => {
   return {
-    base: './',
+    base: '/admin_panel/', // Update this line
     build: {
       outDir: 'build',
     },
