@@ -1,0 +1,39 @@
+*{
+    text-decoration: none !important;
+    list-style: none !important;
+}
+.sidebar-brand{
+    font-size: 24px !important;
+    text-decoration: none !important;
+    margin: auto !important;
+}
+
+.discontent{
+    width: 450px !important;
+    word-wrap: break-word !important;
+}
+
+.product-discontent{
+    width: 300px !important;
+    word-wrap: break-word !important;
+}
+
+.order-dis{
+    width: 200px !important;
+    word-wrap: break-word !important;
+}
+
+.model-items{
+    overflow: hidden;
+}
+
+.profile-image{
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    border: 1px solid;
+}
+
+.order-status{
+    cursor: pointer !important;
+}
